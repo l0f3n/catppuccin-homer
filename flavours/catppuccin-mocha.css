@@ -175,3 +175,7 @@ body #bighead .navbar a {
 body #app .title {
   font-family: 'Fira Code', monospace;
 }
+
+body #main-section h2 i {
+  color: var(--catppuccin-surface1);
+}
